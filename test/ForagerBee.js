@@ -1,4 +1,4 @@
-describe('ForagerBee class functionality', function() {
+  describe('ForagerBee class functionality', function() {
   
   verifyClass(ForagerBee).followsPattern('pseudoclassical', {}, false);
 
